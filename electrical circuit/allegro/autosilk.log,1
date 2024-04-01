@@ -1,0 +1,42 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : PROIECT_TIE.brd                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat May 27 21:21:28 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 100.00
+Min Line Length is 0.00
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 19250.00, 13475.00)
+Text string '4033_11_SOP65P640X120-16N_4033' is not at a suitable location
+(location: 17670.47, 14250.00)
+Text string '4033_12_SOP65P640X120-16N_4033' is not at a suitable location
+(location: 17729.53, 13100.00)
+Text string '***' is not at a suitable location
+(location: 18815.00, 14715.00)
+
+Total Failures: 4
+
+Log End
+

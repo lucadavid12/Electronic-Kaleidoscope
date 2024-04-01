@@ -1,0 +1,13 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat May 27 21:25:40 2023
+\t (00:00:00)         Host=LAPTOP-BOC9P1U6 User=lucks Pid=12492 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession lucks -file ./#Taaaaar00032.tmp -pname THT_D_4_H_3_2 -data C:/Users/lucks/AppData/Local/Temp/#Taaaaat00032.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:05) QtSignal GuidedDrillSymbol FigureDiameter editingFinished 128.00
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal GuidedDrillTab holeXSize editingFinished 128.00
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:25) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:25)     Journal end - Sat May 27 21:26:05 2023
